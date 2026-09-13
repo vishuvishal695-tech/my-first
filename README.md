@@ -1,4 +1,4 @@
-# my-first
+# EXPENSE TRACKER USING PYTHON
 expense tracker using ,dictionalr , for and whileloop,sets
 #EXPENSE TRACKER CODE
 Expenseslist=[] # list of expnses in the form of dictionary 
